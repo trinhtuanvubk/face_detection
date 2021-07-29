@@ -1,1 +1,1 @@
-# face_detection
+# face detection use pretrained MTCNN and ResNet
