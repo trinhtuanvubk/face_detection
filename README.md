@@ -1,1 +1,1 @@
-# Face Detection uses MTCNN and ResNet
+# Face Detection uses MTCNN and ResNet.
